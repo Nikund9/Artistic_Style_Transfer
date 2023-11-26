@@ -1,9 +1,7 @@
 # Artistic_Style_Transfer
 
-**_Note : For running the .ipynb file on google colab make sure to switch the runtime from cpu to gpu
-_**
-![image](https://github.com/Nikund9/Artistic_Style_Transfer/assets/85832578/935ca5fc-c520-49ce-8847-8172da3183d9)
-
+<h3>**_Note : For running the .ipynb file on google colab make sure to switch the runtime from cpu to gpu
+_**</h3>
 
 <h2>Key Components</h2>
 1. Feature Extraction using VGG19:
